@@ -1,0 +1,7 @@
+{
+    "clientID": "OfuAipHZTdcNf4oh7y3bmTwCro7zGhFe",
+    "domain": "dev-i23qftym.auth0.com",
+    "responseType": "token",
+    "redirectUri": "http://localhost:4200/",
+    "scope": "openid"
+}
