@@ -20,16 +20,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'angular-8-boilerplate-modulebased'`, () => {
+  it(`should have as title 'scalable-angular-architecture'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.debugElement.componentInstance;
-    expect(app.title).toEqual('angular-8-boilerplate-modulebased');
+    expect(app.title).toEqual('scalable-angular-architecture');
   });
 
   it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to angular-8-boilerplate-modulebased!');
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to scalable-angular-architecture!');
   });
 });

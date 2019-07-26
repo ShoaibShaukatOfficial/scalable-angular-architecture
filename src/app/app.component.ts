@@ -6,7 +6,7 @@ import { Auth0Service } from './core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-8-boilerplate-modulebased';
+  title = 'scalable-angular-architecture';
   constructor(public auth: Auth0Service) {
     auth.handleAuthentication();
   }
