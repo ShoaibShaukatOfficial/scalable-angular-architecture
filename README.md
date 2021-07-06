@@ -1,5 +1,5 @@
 # Scalable Angular Architecture
-Boiler Plate using Angular 8 ,Angular Material 8 , Auth0 
+Boiler Plate using Angular 12 ,Angular Material 12 , Auth0 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
