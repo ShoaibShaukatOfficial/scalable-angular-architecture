@@ -1,7 +1,7 @@
 # Scalable Angular Architecture
 Boiler Plate using Angular 12 ,Angular Material 12 , Auth0 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 # Feature Modules
 A feature module is a module in which all of the content is going to be encapsulated inside of a single area.
