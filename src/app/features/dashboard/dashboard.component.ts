@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 import { FakeDataService, Auth0Service } from '@core/index';
 import { AddPostComponent } from '@shared/index';
-import { MatDialog } from '@angular/material';
+import { MatDialog } from '@angular/material/dialog';
 import {PostDataSource} from '@feature/dashboard/PostDataSource';
 
 @Component({
